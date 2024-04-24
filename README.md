@@ -40,11 +40,13 @@ copy the fun.exe into the apache /var/www/html folder
 ![4](https://github.com/Nandhinijaya/Compromising-windows-using-Metasploit/assets/121998147/bb9737a9-4b59-45d4-8ee1-ac105a0e8dee)
 
 Check the status of apache2
+
 ![5](https://github.com/Nandhinijaya/Compromising-windows-using-Metasploit/assets/121998147/e73a57b1-266b-4fd3-989f-f2fba75e1ded)
 
 Invoke msfconsole:
 
-![6](https://github.com/Nandhinijaya/Compromising-windows-using-Metasploit/assets/121998147/8a4cfa2e-b6a8-41b4-9930-3c6d9aa357ae)
+![5](https://github.com/Nandhinijaya/Compromising-windows-using-Metasploit/assets/121998147/10652f15-7233-49e7-a50a-8f72e68fddda)
+
 
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
